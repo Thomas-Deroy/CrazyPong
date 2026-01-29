@@ -22,3 +22,11 @@ This project served as a deep dive into **Engine-to-Script architecture**, focus
 * **Custom Assets:** Designed all 2D sprites and UI elements to fit a cohesive neon theme.
 
 ---
+
+## 🚀 How to Run
+> **Note:** This project was built for Windows/OpenGL. (Drag game_Pong.lua on the .exe to run)
+
+   ```bash
+   Game/LuaGameEngine.exe
+
+

@@ -1,0 +1,16 @@
+## License & Credits
+
+**Crazy Pong: Neon Dash** is an original work created by **Thomas Deroy**.
+
+### Development
+* **Code & Scripting:** All gameplay logic, dash mechanics, power-up systems, and engine-level bindings were developed by Thomas Deroy using **Visual Studio Enterprise** and **Visual Studio Code**.
+* **Visual Arts:** All neon-themed sprites, particle effects, and UI elements were designed and rendered by Thomas Deroy using **Paint.NET**.
+
+### Legal
+> © Thomas Deroy. All rights reserved.
+> 
+> This project was developed as part of a **Software Engineering** course. The source code and assets are provided for personal use and portfolio review purposes only. Reproduction or redistribution of the code or assets for commercial purposes is prohibited without express permission.
+
+---
+
+**Thank you for playing!**

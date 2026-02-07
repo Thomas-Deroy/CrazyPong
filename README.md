@@ -5,6 +5,8 @@
     <td width="80%" align="left">
       <p><b>A Pong variant</b></p>
       <p><i>Built with a Custom C++ Engine & Lua Scripting</i></p>
+      <img src="https://img.shields.io/badge/Language-C++-blue?style=flat-square" />
+      <img src="https://img.shields.io/badge/Language-Lua-darkblue?style=flat-square" />
     </td>
     <td width="20%" align="right">
       <img src="Pong/Assets/gifs/logo.png" width="600" alt="SL1M3 Logo" />
